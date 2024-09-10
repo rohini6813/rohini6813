@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohini Khandare</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+
 
 <img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBn2nrJfKQJc6-9JQmAnvfqCa2gBscsmaRP41tLsj6w&s">
 
