@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohini6813&label=Profile%20views&color=0e75b6&style=flat" alt="rohini6813" /> </p>
 
-- 🔭  **Face Recongnition Base Attendance System Software**
+- 🔭  **Pursuing Data Analytics Course**
 
 - 📫 How to reach me **rohinikhandare169@gmail.com**
 
