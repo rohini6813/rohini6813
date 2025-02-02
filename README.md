@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rohinikhandare169@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/folders/14K-0UihIoulyE-KPGOSHbGFkXi5vU7vv](https://drive.google.com/drive/folders/1t-P4H0YFoyuHTP6DJXiHcMVkF2wuiGXE)](https://drive.google.com/drive/folders/14K-0UihIoulyE-KPGOSHbGFkXi5vU7vv)
+- 📄 Know about my experiences [[https://drive.google.com/drive/folders/14K-0UihIoulyE-KPGOSHbGFkXi5vU7vv]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
