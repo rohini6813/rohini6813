@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohini Khandare</h1>
-<h4>👋 Hi, I'm Rohini Khandare!
-B.Tech IT (2024) graduate with a passion for software development & data analytics. Skilled in Python, C++, SQL, and Data Visualization. Always eager to learn and explore new technologies. Open to opportunities in Software Development & Data Analytics. 🚀</h4>
+<h4>👋 Hi, I'm Rohini Khandare!</h4>
+<h4>B.Tech IT (2024) graduate with a passion for software development & data analytics. Skilled in Python, C++, SQL, and Data Visualization. Always eager to learn and explore new technologies. Open to opportunities in Software Development & Data Analytics. 🚀</h4>
 
 <img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBn2nrJfKQJc6-9JQmAnvfqCa2gBscsmaRP41tLsj6w&s">
 
