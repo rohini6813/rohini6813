@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohini6813&label=Profile%20views&color=0e75b6&style=flat" alt="rohini6813" /> </p>
 
-- 🔭  **Pursuing Data Analytics Course**
-
 - 📫 How to reach me **rohinikhandare169@gmail.com**
 
 - 📄 Know about my experiences [(https://drive.google.com/drive/folders/1t-P4H0YFoyuHTP6DJXiHcMVkF2wuiGXE)]
